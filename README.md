@@ -34,7 +34,7 @@ Este repositório é o *back-end* da aplicação: [upload.ai](https://github.com
    OPENAI_KEY=SuaChaveDaAPIAqui
    ```
 4. Inicie o servidor com `npm start`.
-5. Acesse a aplicação em `http://localhost:3000` em seu navegador.
+5. Acesse a aplicação em `http://localhost:3333` em seu navegador.
 
 ## Contribuição
 Contribuições são bem-vindas! Se você deseja melhorar ou adicionar recursos à aplicação, sinta-se à vontade para abrir uma issue ou enviar um pull request.
